@@ -1,0 +1,23 @@
+{
+  "name": "hive-mind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTechCompany/hive-mind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTechCompany/hive-mind/issues"
+  },
+  "homepage": "https://github.com/TheTechCompany/hive-mind#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "typescript": "^4.3.5"
+  }
+}

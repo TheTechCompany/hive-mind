@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./packages",
+    "paths": {
+      "@hivemind/editor": ["./editor/src"]
+    }  
+  }
+}
