@@ -2,7 +2,12 @@
   "compilerOptions": {
     "baseUrl": "./packages",
     "paths": {
-      "@hivemind/editor": ["./editor/src"]
+      "@hivemind/editor": ["./editor/src"],
+      "react": ["../node_modules/react"],
+      "react-dom": ["../node_modules/react-dom"],
+      "@types/react-dom": ["../node_modules/@types/react-dom"],
+      "@types/react": ["../node_modules/@types/react"],
+
     }  
   }
 }
